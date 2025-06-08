@@ -15,4 +15,5 @@ View your Color Palette
 ![MyCPG](https://github.com/user-attachments/assets/0a33c5b8-8cad-4adb-80db-1b9334c19332)
 
 User menu dropdown
+
 ![dropdown](https://github.com/user-attachments/assets/39e6eb1b-5f1e-4189-bd1a-b7aa6fbcad3f)
