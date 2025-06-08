@@ -1,14 +1,18 @@
 # React + Vite
+Landing page
+![Landing](https://github.com/user-attachments/assets/b7b9e3d5-976c-4233-8c5e-5a4e4ff99914)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Frontend login with a rate limiter
+![LoginWithFrontendLimiter](https://github.com/user-attachments/assets/acfc8999-026d-49f4-b1b6-849129441c6f)
 
-Currently, two official plugins are available:
+Color Palette Generator
+![CPG](https://github.com/user-attachments/assets/f9b02b68-0a6f-4363-b4c6-82187ee69ebb)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Create a color and save it to your Color Palette or set as your favorite color
+![ColorCreate](https://github.com/user-attachments/assets/32f6c92b-9469-4516-b25e-7235acccd787)
 
-## Expanding the ESLint configuration
+View your Color Palette
+![MyCPG](https://github.com/user-attachments/assets/0a33c5b8-8cad-4adb-80db-1b9334c19332)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-# 2025-DEPT-JavaScript-Bootcamp
-# 2025-DEPT-JavaScript-Bootcamp
+User menu dropdown
+![dropdown](https://github.com/user-attachments/assets/39e6eb1b-5f1e-4189-bd1a-b7aa6fbcad3f)
